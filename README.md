@@ -1,4 +1,4 @@
-# ⏰ Live Date Time Clock -- Chrome Extension
+#. ⏰ Live Date Time Clock -- Chrome Extension
 
 A simple and lightweight Chrome extension that shows the **current time
 directly on the Chrome toolbar** and displays **live date and time in a
